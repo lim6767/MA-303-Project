@@ -7,7 +7,7 @@ To access the MATLAB app, click [here](Heat_SIM.mlapp) and download the file.
 
 ## Project Description
 
-Programmed a numerical solver for the 2D heat equation using the Crank-Nicolson method. This implicit finite-difference scheme provides second-order temporal accuracy and unconditional stability, essential for high-fidelity thermal modeling. Features include support for mixed Dirichlet/Neumann boundary conditions and dynamic time-dependent heating sources, all optimized for performance via sparse LU matrix factorization.
+Modeling heat conduction in objects involves solving partial differential equations, which are generally difficult, if not impossible. Most solutions to partial differential equations are computed numerically using methods like Finite Difference and Finite Element. The purpose of this project was to build on the numerical methods learned in Chapter 2 of *Differential Equations and Boundary Value Problems: Computing and Modeling, 6e* (C.Henry Edwards, David E. Penney, and David Calvis) by extending it to solving partial differential equations. This project focused on modeling heat equations on bounded rectangular regions using the Crank-Nicolson scheme.
 
 ## HEAT_SIM.mlapp User Manual
 
