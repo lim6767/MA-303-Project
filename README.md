@@ -1,4 +1,4 @@
-# Using Crank-Nicolson to Model 2D Heat Equation
+# Applying Crank-Nicolson to Model 2D Heat Equation
 YouTube Link: https://youtu.be/pVLWIH1Qj5k 
 
 Documentation: [Latex Document](Finite_Difference_Project.pdf)
