@@ -15,4 +15,4 @@ There are boundary conditions on the left of the window, which are drop-down men
 
 **Step 3:** When everything is set, press the **Evaluate** button. The app should display a heatmap that agrees with your initial temperature function. Freely move the Time slider to observe the evolution of the heat content in the region through time.
 
-![](UserWindow.png)
+![](User_Window.png)
