@@ -5,6 +5,10 @@ YouTube Link: https://youtu.be/pVLWIH1Qj5k
 
 To access the MATLAB app, click [here](Heat_SIM.mlapp) and download the file.
 
+## Project Description
+
+Programmed a numerical solver for the 2D heat equation using the Crank-Nicolson method. This implicit finite-difference scheme provides second-order temporal accuracy and unconditional stability, essential for high-fidelity thermal modeling. Features include support for mixed Dirichlet/Neumann boundary conditions and dynamic time-dependent heating sources, all optimized for performance via sparse LU matrix factorization.
+
 # HEAT_SIM.mlapp User Manual
 
 **Step 1:** Open the **Heat_SIM.mlapp** while having MATLAB installed on your computer. A window exactly like the image below should pop up.
